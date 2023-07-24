@@ -1,0 +1,9 @@
+.title{
+    text-align: center;
+}
+
+.column{
+    float: left;
+    width: 31%;
+    margin: 5px;
+}
